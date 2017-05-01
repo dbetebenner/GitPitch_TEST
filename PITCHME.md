@@ -6,6 +6,10 @@
 
 ---
 
+# Some Math
+
++++
+
 $$
-\int_0^\infty e^x
+\int_0^\infty e^x dx
 $$
